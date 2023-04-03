@@ -1,1 +1,1 @@
-# cms-ars-5.0-aws-rds-oracle-mysql-8-stig-overlay
+# [cms-ars-5.0-aws-rds-oracle-mysql-8-stig-overlay](https://github.com/CMS-Enterprise/cms-ars-5.0-oracle-mysql-8-stig-overlay#aws-rds-ready-profile-updated-to-adapt-checks-when-the-running-against-an-aws-rds-instance-of-mysql-by-setting-the-input-aws_rds-to-true-see-inputs-tailoring-your-scan-to-your-environment-and-mysql-client-setup-below)
